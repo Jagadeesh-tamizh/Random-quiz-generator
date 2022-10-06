@@ -1,0 +1,76 @@
+{
+      "Author of below question": "Jagadeesh",
+      "topic": "Find position int the number sequence",
+      "Question 1": {
+            "content": "The number sequence is [82, 35, 36, 29, 31, 59, 17, 49, 5, 7]. what is the position of 59.",
+            "answer": [
+                  {
+                        "id": 1,
+                        "value": 3,
+                        "is_key": false
+                  },
+                  {
+                        "id": 2,
+                        "value": 7,
+                        "is_key": false
+                  },
+                  {
+                        "id": 3,
+                        "value": 6,
+                        "is_key": true
+                  },
+                  {
+                        "id": 4,
+                        "value": 5,
+                        "is_key": false
+                  }
+            ],
+            "hint": "The first position is always 1",
+            "credits": {
+                  "author": {
+                        "id": "cd475300-1e30-4cc0-9c1a-55af79624af3",
+                        "name": "Jagadeesh"
+                  },
+                  "reviewer": {
+                        "id": "Not reviewed yet",
+                        "name": "NULL"
+                  }
+            }
+      },
+      "Question 2": {
+            "content": "The number sequence is [24, 12, 64, 4, 5, 89, 83, 90, 75, 23]. what is the position of 83.",
+            "answer": [
+                  {
+                        "id": 1,
+                        "value": 2,
+                        "is_key": false
+                  },
+                  {
+                        "id": 2,
+                        "value": 4,
+                        "is_key": false
+                  },
+                  {
+                        "id": 3,
+                        "value": 7,
+                        "is_key": true
+                  },
+                  {
+                        "id": 4,
+                        "value": 3,
+                        "is_key": false
+                  }
+            ],
+            "hint": "The first position is always 1",
+            "credits": {
+                  "author": {
+                        "id": "cd475300-1e30-4cc0-9c1a-55af79624af3",
+                        "name": "Jagadeesh"
+                  },
+                  "reviewer": {
+                        "id": "Not reviewed yet",
+                        "name": "NULL"
+                  }
+            }
+      }
+}

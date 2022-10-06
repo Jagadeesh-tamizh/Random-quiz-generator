@@ -1,0 +1,75 @@
+{
+      "Author of below question": "Jagadeesh",
+      "Question 1": {
+            "content": "What is the quotient of 133 divided by 9",
+            "answer": [
+                  {
+                        "id": 1,
+                        "value": 15,
+                        "is_key": false
+                  },
+                  {
+                        "id": 2,
+                        "value": 14,
+                        "is_key": true
+                  },
+                  {
+                        "id": 3,
+                        "value": 17,
+                        "is_key": false
+                  },
+                  {
+                        "id": 4,
+                        "value": 16,
+                        "is_key": false
+                  }
+            ],
+            "hint": "A dividend is divided by divisor",
+            "credits": {
+                  "author": {
+                        "id": "cd475300-1e30-4cc0-9c1a-55af79624af3",
+                        "name": "Jagadeesh"
+                  },
+                  "reviewer": {
+                        "id": "Not reviewed yet",
+                        "name": "karthick"
+                  }
+            }
+      },
+      "Question 2": {
+            "content": "What is the quotient of 181 divided by 9",
+            "answer": [
+                  {
+                        "id": 1,
+                        "value": 21,
+                        "is_key": false
+                  },
+                  {
+                        "id": 2,
+                        "value": 22,
+                        "is_key": false
+                  },
+                  {
+                        "id": 3,
+                        "value": 23,
+                        "is_key": false
+                  },
+                  {
+                        "id": 4,
+                        "value": 20,
+                        "is_key": true
+                  }
+            ],
+            "hint": "A dividend is divided by divisor",
+            "credits": {
+                  "author": {
+                        "id": "cd475300-1e30-4cc0-9c1a-55af79624af3",
+                        "name": "Jagadeesh"
+                  },
+                  "reviewer": {
+                        "id": "Not reviewed yet",
+                        "name": "karthick"
+                  }
+            }
+      }
+}
